@@ -6,8 +6,6 @@ Sign in to llama index Portal
 
 https://www.llamaindex.ai/llamaparse
 
-<img width="394" height="226" alt="image" src="https://github.com/user-attachments/assets/34e1e876-b3a8-4206-9c42-734c80349cbc" />
-
 
 <img width="995" height="462" alt="image" src="https://github.com/user-attachments/assets/165dce91-c230-4cf6-8139-f991cbda1711" />
 
