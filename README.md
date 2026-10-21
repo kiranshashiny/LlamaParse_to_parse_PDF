@@ -1,4 +1,4 @@
-# LlamaParse_to_parse_PDF
+# LlamaParse_to_parse_PDF and use Agentic AI to ask questions in Natural Language. ( JavaScript and Python )
 
 In this repo - I would like to show how to use LlamaParse to parse a PDF document.
 
