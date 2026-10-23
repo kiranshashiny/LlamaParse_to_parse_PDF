@@ -102,7 +102,7 @@ if (!fs.existsSync(outputDir)) {
 
 
 const client = new LlamaCloud({
-  apiKey: process.env.LLAMA_CLOUD_API_KEY || "llx-tj7DCkspkltWBvmE3nAiLYwcqJ3gtWLlMkuQDMlkIg0sjkjq",
+  apiKey: process.env.LLAMA_CLOUD_API_KEY || "llx",
 });
 
 async function processPdf(filePath) {
