@@ -406,3 +406,38 @@ Answer: The following are the voters that have Shashi in their name:
 ```
 
 
+To view the contents on the web browser :
+
+
+
+
+start 
+```
+npx serve
+
+$ npx serve
+
+   ┌────────────────────────────────────────────┐
+   │                                            │
+   │   Serving!                                 │
+   │                                            │
+   │   - Local:    http://localhost:3000        │
+   │   - Network:  http://192.168.29.203:3000   │
+   │                                            │
+   │   Copied local address to clipboard!       │
+   │                                            │
+   └────────────────────────────────────────────┘
+
+ HTTP  24/10/2026 2:09:31 pm 127.0.0.1 GET /
+ HTTP  24/10/2026 2:09:31 pm 127.0.0.1 Returned 200 in 38 ms
+
+ ```
+
+
+<img width="643" height="276" alt="image" src="https://github.com/user-attachments/assets/15b03fc4-e929-4ed1-bcfd-43dfec28277e" />
+
+
+
+<img width="1009" height="409" alt="image" src="https://github.com/user-attachments/assets/def5620a-f7b4-4c19-a079-5a4da50fe174" />
+
+
